@@ -1,0 +1,90 @@
+{
+  "nota": "Fotos de stock usadas como reemplazo provisorio de las fotos reales de Malva (clienta ficticia). Todas bajo la Unsplash License (uso libre, comercial incluido, sin atribución obligatoria; se acredita igual). Verificadas en la página de cada foto el 16/11/2026: ninguna es Unsplash+. v2 (16/11/2026): se sumaron 4 fotos (Katherine Hanlon, kimia kazemi x2, Rosa Rafael), descargadas de images.unsplash.com con aprobación de Franco; las páginas de las 4 dicen Unsplash License, ninguna es Unsplash+. Se descartó la foto de Katherine Hanlon para el hero por demasiado oscura; volvió la de kimia kazemi.",
+  "licencia": {
+    "nombre": "Unsplash License",
+    "url": "https://unsplash.com/license"
+  },
+  "fotos": [
+    {
+      "archivo": "hero-wide-{960,1440,1920}.webp · hero-m-{500,960}.webp · og-malva.jpg",
+      "uso": "v3: hero a sangre (#inicio) y Open Graph",
+      "autor": "kimia kazemi (@kimick)",
+      "fuente": "https://unsplash.com/photos/RbIcMsh0NSk",
+      "licencia": "Unsplash License",
+      "adaptada": "Recorte apaisado y vertical (sharp, attention); 1200x630 para Open Graph"
+    },
+    {
+      "archivo": "rostro-dermaplaning-{500,960,1440}.webp · ba-antes-{500,960}.webp",
+      "uso": "v3: Si llegaste hasta acá, tarjeta Dermaplaning y slider antes/después (capa después). ba-antes-{500,960}.webp es la misma foto procesada con sharp (brillo .88, saturación .55, contraste .78, gamma 1.15) como capa antes de demostración",
+      "autor": "karelys Ruiz (@karelysruiz)",
+      "fuente": "https://unsplash.com/photos/PqyzuzFiQfY",
+      "licencia": "Unsplash License",
+      "adaptada": "Redimensionada"
+    },
+    {
+      "archivo": "proceso-{500,768}.webp (y mirada-lifting-*, sin uso en la v2)",
+      "uso": "v3: Si llegaste hasta acá, tarjeta Lifting; mirada-lifting-*: bloque El estudio y tarjetas Laminado y Diseño de cejas",
+      "autor": "nastiia nikitenko (@nnuz)",
+      "fuente": "https://unsplash.com/photos/U88HKDGynE4",
+      "licencia": "Unsplash License",
+      "adaptada": "Redimensionada; recorte vertical 4:5 para proceso"
+    },
+    {
+      "archivo": "equipo-retrato-{500,960,1440}.webp",
+      "uso": "v3: Lo que vas a notar, retrato en arco",
+      "autor": "Jonathan Borba (@jonathanborba)",
+      "fuente": "https://unsplash.com/photos/cDmQ48iNbm8",
+      "licencia": "Unsplash License",
+      "adaptada": "Redimensionada; recortada por CSS a 3:4"
+    },
+    {
+      "archivo": "equipo-espacio-{500,960,1440}.webp",
+      "uso": "v3: Si llegaste hasta acá y Quiénes somos",
+      "autor": "Mayur Roxan (@mayurroxanphotography)",
+      "fuente": "https://unsplash.com/photos/JnsuyfJrxQw",
+      "licencia": "Unsplash License",
+      "adaptada": "Redimensionada; recortada por CSS a 3:2"
+    },
+    {
+      "archivo": "proceso-piel-{500,960}.webp",
+      "uso": "v3: Si llegaste hasta acá, foto 1",
+      "autor": "kimia kazemi (@kimick)",
+      "fuente": "https://unsplash.com/photos/J6Hg_YH2tFk",
+      "licencia": "Unsplash License",
+      "adaptada": "Recorte 4:5 (2400x3000, y=600) y redimensionada"
+    },
+    {
+      "archivo": "proceso-consulta-{500,960}.webp",
+      "uso": "v3: La verdad (foto grande) y tarjeta Limpieza facial profunda",
+      "autor": "kimia kazemi (@kimick)",
+      "fuente": "https://unsplash.com/photos/u93nTfWqR9w",
+      "licencia": "Unsplash License",
+      "adaptada": "Recorte 4:5 (2400x3000, y=450) y redimensionada"
+    },
+    {
+      "archivo": "franja-{960,1440}.webp",
+      "uso": "v3: La verdad (foto chica) y tarjeta Limpieza + peeling",
+      "autor": "Rosa Rafael (@rosarafael)",
+      "fuente": "https://unsplash.com/photos/Pe9IXUuC6QU",
+      "licencia": "Unsplash License",
+      "adaptada": "Redimensionada"
+    },
+    {
+      "archivo": "cejas-laminado-{500,960}.webp",
+      "uso": "v3: tarjeta Laminado de cejas",
+      "autor": "Sum Sum (@surprisechef)",
+      "fuente": "https://unsplash.com/photos/x0r5YvOJFCg",
+      "licencia": "Unsplash License",
+      "adaptada": "Recorte 3:4"
+    },
+    {
+      "archivo": "cejas-diseno-{500,960}.webp",
+      "uso": "v3: tarjeta Diseño de cejas",
+      "autor": "Stefan Vibes (@eusuntvibes)",
+      "fuente": "https://unsplash.com/photos/-k0_8bZ4L8c",
+      "licencia": "Unsplash License",
+      "adaptada": "Recorte 3:4"
+    }
+  ],
+  "antes_despues": "v3 (17/11/2026): slider de demostración con una sola foto (karelys Ruiz). La capa antes es la misma foto procesada con sharp; lleva la leyenda Imagen de demostración. Sin pares reales."
+}
